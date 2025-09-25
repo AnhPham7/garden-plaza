@@ -1,0 +1,276 @@
+STT,ConfirmCode,FullName,ArrivalDate,ArrivalTime,DeptDate,DeptTime,Adult,Children,BookedRmType,MultiResv,NumRoom,CompanyTA,MarketSegment,Source,RateCode,Currency,Price,PaymentMethod,ExternalIdentifier,ArrivalCarrier,Note
+34,1740805,"Zhou,Yukun,Mr",07/10/2025,14:00,08/10/2025,12:00,00:00,0,BK,,,13756,DTP,TPI,,VND,1709545,Tiền mặt,1128142155536110,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+35,1735833,"Moncada,Edith",07/10/2025,14:00,09/10/2025,12:00,00:00,0,DK,,,13747,WDU,WHI,,USD,82.86,Tiền mặt,QBD-2986605-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+36,1738414,"Latifi,Emal",07/10/2025,14:00,11/10/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2261889,Tiền mặt,2293246293,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+37,1738415,"Maergner,Nicolas,Mr",07/10/2025,14:00,11/10/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2261889,Tiền mặt,2293246285,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+38,1727165,"Nolan,Moira Teresa,Ms",08/10/2025,14:00,09/10/2025,12:00,00:00,0,DK,2,,12183,DRR,WEB,,USD,76.5,Tiền mặt,120531107,,
+39,1742493,"Graff,Gert,Mr",08/10/2025,18:15,09/10/2025,20:10,00:00,0,ODK,,,14140,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,,QH 1321,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+40,1742686,"Terada,Kazuhiro,Mr",08/10/2025,16:20,09/10/2025,12:00,00:00,0,SK,,,13880,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,CI 783,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+41,1731500,"Crampton,Teresa",09/10/2025,14:00,10/10/2025,12:00,00:00,0,DT,,,13866,DTP,TPI,,VND,2124304,Tiền mặt,EXP-2236011486-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+42,1738426,"Liu,Yang,Mr",09/10/2025,14:00,10/10/2025,12:00,00:00,0,ST,,,12006,PTP,TPI,,VND,1923470,Tiền mặt,1651986479,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+43,1738428,"Wu,Tao",09/10/2025,14:00,10/10/2025,12:00,00:00,0,SK,,,13756,PTP,TPI,,VND,1826566,Tiền mặt,1128142468744570,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+44,1742579,"Chelliah,Geetha,Ms",09/10/2025,14:00,11/10/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1540370,Tiền mặt,358-3030531,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+45,1742690,"Doi,Kiyomi,Mr",09/10/2025,14:00,11/10/2025,10:50,00:00,0,SK,,,13880,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+46,1742689,"Terada,Kazuhiro,Mr",10/10/2025,14:00,11/10/2025,10:50,00:00,0,SK,,,13880,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+47,1742830,"Wu,Tao",10/10/2025,14:00,11/10/2025,12:00,00:00,0,ST,,,13866,PTP,TPI,,VND,2184048,Tiền mặt,2294011833,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+48,1742831,"Liu,Yang,Mr",10/10/2025,14:00,11/10/2025,12:00,00:00,0,ST,,,13866,PTP,TPI,,VND,2184048,Tiền mặt,2294011831,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+49,1742991,"Li,Xin Yi,Mr",10/10/2025,14:00,11/10/2025,12:00,00:00,0,DK,,,13756,PTP,TPI,,VND,1967059,Tiền mặt,1132540522029080,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+50,1742992,"Zhang,Li He,Mr",10/10/2025,14:00,11/10/2025,12:00,00:00,0,DK,,,13756,PTP,TPI,,VND,1967059,Tiền mặt,1132540522029080,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+51,1742993,"Xu,Li Ping,Mr",10/10/2025,14:00,11/10/2025,12:00,00:00,0,DK,,,13756,PTP,TPI,,VND,1967059,Tiền mặt,1132540522029080,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+52,1734187,"Swan,Emily Constance Georgina T,Ms",11/10/2025,15:50,12/10/2025,12:20,00:00,0,ODK,,,12183,PBP,IDV,,USD,116.45,Tiền mặt,1734187,VN 1826,
+53,1742146,"Zhao,Dong Sheng,Mr",11/10/2025,14:00,12/10/2025,12:00,00:00,1,ST,,,12006,PTP,TPI,,VND,1857144,Tiền mặt,1649603860,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+54,1742175,"Waddingham,Sean",11/10/2025,21:00,12/10/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,2035799,Tiền mặt,5834420130,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+55,1733798,"Emyra,Ellyse,Ms",11/10/2025,12:00,13/10/2025,12:00,00:00,0,SK,,,13324,COM,COM,,VND,0,Tiền mặt,1733798,,
+56,1742168,"Nguyen,Thi Ngoc Diem,Ms",11/10/2025,14:00,14/10/2025,12:00,00:00,0,SK,,,12019,PTP,TPI,,VND,1900364,Tiền mặt,20251100000000,,
+57,1719357,"Viedma,Ignacio",12/10/2025,14:00,13/10/2025,12:00,00:00,0,SK,,,934,WFA,TAL,,VND,1873898,Tiền mặt,1719357,,
+58,1743336,"Flem,Johannes",12/10/2025,12:00,14/10/2025,12:00,00:00,0,SKS,,,40,CLA,COM,ICCLCPRO,VND,3060000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+59,1715315,"Eckhardt,Jenny,Ms",12/10/2025,14:00,15/10/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1715315,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+60,1737136,"Asquith,Ronald Duncan,Mr",12/10/2025,18:25,15/10/2025,19:40,00:00,0,ODK,,,13863,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,1737136,SQ 186,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+61,1737137,"Haslam,Corey Allan,Mr",12/10/2025,16:00,16/10/2025,20:50,00:00,0,ODK,,,13863,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,1737137,VN 772,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+62,1710967,"Roberts,Karen",12/10/2025,14:00,19/10/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,80,Tiền mặt,QBD-2922712-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+63,1716892,"Werner,Jeffrey Smith,Mr",13/10/2025,14:00,14/10/2025,09:00,00:00,0,DK,,,12183,DRR,WEB,,USD,70.04,Tiền mặt,119875379,,
+64,1734980,"Heenan,Shane Brent",13/10/2025,14:00,14/10/2025,12:00,00:00,0,DK,,,12183,PBP,WEB,,USD,92,Tiền mặt,121145121,,
+65,1735935,"Heenan,Shane Brent",13/10/2025,14:00,14/10/2025,12:00,00:00,0,DK,,,12183,PBP,WEB,,USD,92,Tiền mặt,121145121,,
+66,1742556,"Pradin,Audrey,Ms",14/10/2025,14:00,15/10/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1854840,Tiền mặt,358-3030198,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+67,1742986,"Wu,Tao",14/10/2025,14:00,15/10/2025,12:00,00:00,0,ST,,,13866,DTP,TPI,,VND,1988996,Tiền mặt,2294984735,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+68,1720362,"Bleumink-Middelwijk,Shade",15/10/2025,14:00,16/10/2025,12:00,00:00,0,SKS,,,13741,DTP,TPI,,VND,3393202,Tiền mặt,BDC-4478433593-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+69,1735832,"Portes,Ronald",15/10/2025,17:00,16/10/2025,12:00,00:00,0,ST,,,13741,DTP,TPI,,VND,2235292,Tiền mặt,BDC-6813233970-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+70,1726529,"Shalhoub,Joseph",15/10/2025,14:00,17/10/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,82.86,Tiền mặt,QBD-2959790-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+71,1727231,"Bratt,Stephen",15/10/2025,14:00,17/10/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,70.71,Tiền mặt,QBD-2963953-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+72,1742171,"Serle,Oenone",15/10/2025,14:00,17/10/2025,18:00,00:00,0,DK,,,13741,PTP,TPI,,VND,2392000,Tiền mặt,6332567034,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+73,1742504,"Tran,Thanh,Mr",15/10/2025,14:00,17/10/2025,12:00,00:00,0,SK,,,13866,DTP,TPI,,VND,1768095,Tiền mặt,2290882315,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+74,1741008,"Park,Jong Ho,Mr",15/10/2025,11:05,18/10/2025,00:05,00:00,0,SKS,,,721,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,,OZ 731,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+75,1720485,"Bladen,Carlyn",16/10/2025,14:00,17/10/2025,12:00,00:00,0,ST,,,13741,PTP,TPI,,VND,2360083,Tiền mặt,BDC-4726809082-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+76,1713777,"Jana,Kinnery",16/10/2025,14:00,19/10/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1921364,Tiền mặt,HBD-79792-358-2931229-1,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+77,1713778,"Jana,Jayeshkumar",16/10/2025,14:00,19/10/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1921364,Tiền mặt,HBD-79792-358-2931230-1,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+78,1738345,"Soga,Shinobu,Mr",16/10/2025,14:00,21/10/2025,12:00,00:00,0,ST,,,13741,PTP,TPI,,VND,2262000,Tiền mặt,5650919087,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+79,1741301,"Shishido,Hirofumi,Mr",16/10/2025,14:00,21/10/2025,12:00,00:00,0,ST,,,12006,PTP,TPI,,VND,1923470,Tiền mặt,1647128374,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+80,1741318,"Kishimoto,Hironori,Mr",16/10/2025,14:00,21/10/2025,12:00,00:00,0,SK,,,12006,PTP,TPI,,VND,1923470,Tiền mặt,1647242508,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+81,1742181,"Hori,Hitomi,Ms",16/10/2025,14:00,21/10/2025,12:00,00:00,0,ST,,,12006,DTP,TPI,,VND,1503402,Tiền mặt,1650318003,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+82,1733774,"Hu,Wen Long,Mr",17/10/2025,14:00,18/10/2025,12:00,00:00,0,SK,,,13866,DTP,TPI,,VND,1945706,Tiền mặt,EXP-2248653854-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+83,1742105,"Wellstead,David,Mr",17/10/2025,10:55,18/10/2025,07:15,00:00,0,ODK,,,13881,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,,SQ 178,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+84,1737626,"Bittles,Wayne,Mr",17/10/2025,14:00,20/10/2025,12:00,00:00,0,DK,,,13741,PTP,TPI,,VND,1809600,Tiền mặt,5154119247,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+85,1724209,"Clark,Janet,Mrs",18/10/2025,14:00,19/10/2025,12:00,00:00,2,SKS,,,12183,DRR,WEB,,USD,131.75,Tiền mặt,120271222,,
+86,1724210,"Clark,Janet,Mrs",18/10/2025,14:00,19/10/2025,12:00,00:00,0,SKS,,,12183,DRR,WEB,,USD,131.75,Tiền mặt,120271231,,
+87,1730971,"Siciliano,Michael",18/10/2025,14:00,19/10/2025,12:00,00:00,0,ODK,,,13747,WDU,WHI,,USD,102.14,Tiền mặt,QBD-2974034-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+88,1730972,"Dealtry,Kirsten",18/10/2025,14:00,19/10/2025,12:00,00:00,0,ODK,,,13747,WDU,WHI,,USD,102.14,Tiền mặt,QBD-2974035-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+89,1742029,"Beutell,Rene,Mr",18/10/2025,14:00,19/10/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+90,1733856,"Morosi,Alberto",18/10/2025,14:00,20/10/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,USD,85.44,Tiền mặt,121083774,,
+91,1735116,"Morosi,Giusto",18/10/2025,14:00,20/10/2025,12:00,00:00,0,SK,2,,12183,PBP,WEB,,USD,85.44,Tiền mặt,121154066,,
+92,1743337,"Flem,Johannes",18/10/2025,12:00,21/10/2025,12:00,00:00,0,SKS,,,40,CLA,COM,ICCLCPRO,VND,3060000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+93,1741342,"Van,Joseph Gerven,Mr",18/10/2025,14:00,29/10/2025,12:00,00:00,0,SK,,,13756,DTP,TPI,,VND,1449760,Tiền mặt,1688892522244170,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+94,1742803,"Lestario,Christ,Mr",19/10/2025,14:00,20/10/2025,12:00,00:00,0,SK,,,13756,DTP,TPI,,VND,1359149,Tiền mặt,1578941704039430,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+95,1742183,"Yamane,Kei,Mr",20/10/2025,14:00,21/10/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1449760,Tiền mặt,358-3029451,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+96,1733448,"Kelley,Luke",20/10/2025,14:00,23/10/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2282404,Tiền mặt,BDC-5809371840-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+97,1743249,"Garvey,Brendan,Mr",20/10/2025,14:00,29/10/2025,12:00,00:00,0,SK,,,13866,DTP,TPI,,VND,1768095,Tiền mặt,2295376991,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+98,1738449,"Hakami,Yasser Yahia",21/10/2025,14:00,23/10/2025,12:00,00:00,0,BK,,,13746,WDU,WHI,,VND,2017601,Tiền mặt,AGMY0144532509185722,,
+99,1743217,"Ikeda,Kazuichi",21/10/2025,14:00,23/10/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2262001,Tiền mặt,6383450665,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+100,1743328,"Lim,Sheun Long Bernard,Mr",21/10/2025,14:00,24/10/2025,12:00,00:00,0,ODK,,,13844,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+101,1724964,"Nagai,Keisuke,Mr",22/10/2025,16:55,23/10/2025,07:30,00:00,0,EKS,,,13794,CLA,COM,ICCLCPRO,VND,3621000,Tiền mặt,1724964,VN 133,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+102,1724965,"Kojima,Tadashi,Mr",22/10/2025,16:55,23/10/2025,08:45,00:00,0,EKS,,,13794,CLA,COM,ICCLCPRO,VND,3621000,Tiền mặt,1724965,VN 133,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+103,1724966,"Kazuma,Nakane",22/10/2025,16:55,23/10/2025,07:30,00:00,0,SKS,,,13794,CLA,COM,ICCLCPRO,VND,3238500,Tiền mặt,1724966,VN 133,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+104,1724967,"So,Sakuma,Mr",22/10/2025,16:55,23/10/2025,09:00,00:00,0,SKS,,,13794,CLA,COM,ICCLCPRO,VND,3238500,Tiền mặt,1724967,VN 133,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+105,1742558,"Seo,Wonil,Mr",22/10/2025,14:00,24/10/2025,12:00,00:00,0,DT,,,13741,PTP,TPI,,VND,2392000,Tiền mặt,6467820914,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+106,1742560,"Seo,Wonil 2,Mr",22/10/2025,14:00,24/10/2025,12:00,00:00,0,DT,,,13741,PTP,TPI,,VND,2392000,Tiền mặt,6467820914,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+107,1742782,"Yip,Shu Kwun Quincy,Mr",22/10/2025,14:00,24/10/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,1604239,Tiền mặt,820418255 - 1758264315078511,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+108,1742500,"Tran,Cindy Chi",23/10/2025,04:30,24/10/2025,12:00,00:00,0,EKS,,319,12183,DRR,IDV,,VND,3042000,Tiền mặt,,VN 0099/ 4:30,
+109,1724940,"Wolfgang,Tesar,Mr",23/10/2025,14:00,25/10/2025,12:00,00:00,0,SK,,,769,WFA,TAL,IWWHOAAA,VND,1763668,Tiền mặt,1724940,,"Room to T/A after C/O by C/L, ABF Incl. (Series Rate)."
+110,1743251,"Gokey,Patrick Allen,Mr",23/10/2025,14:00,27/10/2025,12:00,00:00,0,SK,,,13866,DTP,TPI,,VND,1768095,Tiền mặt,2295434974,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+111,1740487,"Paddick,Rodney,Mr",24/10/2025,14:00,25/10/2025,12:00,00:00,0,SK,,,13756,PTP,TPI,,VND,1856400,Tiền mặt,1688892227616510,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+112,1740999,"Tabinas,Kenan",24/10/2025,12:00,30/10/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,VND,2184000,Tiền mặt,615600610,,
+113,1740495,"Mauricio,Errjy",25/10/2025,14:00,30/10/2025,12:00,00:00,0,SK,,,12006,DTP,TPI,,VND,1450339,Tiền mặt,1929952162,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+114,1740027,"Morrison,Anthony,Mr",25/10/2025,14:00,08/11/2025,12:00,00:00,0,BK,,,13741,DTP,TPI,,VND,1913600,Tiền mặt,6548324512,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+115,1742501,"Tran,Cindy Chi",26/10/2025,04:30,30/10/2025,12:00,00:00,0,EKS,,319,12183,DRR,IDV,,VND,2971800,Tiền mặt,,,
+116,1739353,"Morton,Adrian,Mr",26/10/2025,14:00,31/10/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,1922700,Tiền mặt,6775554950,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+117,1739354,"Jewell,Anthony,Mr",26/10/2025,14:00,31/10/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,1922700,Tiền mặt,6775554950,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+118,1711045,"Lai,Sook May Selena,Ms",27/10/2025,14:00,28/10/2025,12:00,00:00,0,SK,,,12183,DRR,EML,,USD,75.41,Tiền mặt,7593SF002073,,
+119,1711559,"Chua,Lik-wuk,Mr",27/10/2025,14:00,28/10/2025,12:00,00:00,0,SK,,,12183,DRR,EML,,USD,75.41,Tiền mặt,7593SF002101,,
+120,1726983,"Chua,Lik-wuk,Mr",27/10/2025,14:00,28/10/2025,12:00,00:00,0,SK,,,12183,DRR,EML,,USD,74.97,Tiền mặt,7593SF002491,,
+121,1735616,"Chua,Evan Zhi Zhong,Mr",28/10/2025,15:00,01/11/2025,12:15,00:00,0,BK,,,12183,DRR,EML,,USD,76,Tiền mặt,7593SF002723,SQ 184,
+122,1738379,"Kodajima,Yuichi,Mr",29/10/2025,12:00,30/10/2025,12:00,00:00,0,BK,,,143,CLA,COM,ICCLCPRO,VND,2295000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+123,1738380,"Buto,Yukihiro,Mr",29/10/2025,12:00,30/10/2025,12:00,00:00,0,BK,,,143,CLA,COM,ICCLCPRO,VND,2295000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+124,1742499,"Kambayashi,Yutaka,Mr",29/10/2025,12:00,30/10/2025,12:00,00:00,0,DK,,,143,CLA,COM,ICCLCPRO,VND,2167500,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+125,1735385,"Segarra Lopez,Sergi",29/10/2025,14:00,31/10/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2290026,Tiền mặt,EXP-2256338528-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+126,1738594,"Whan,Kan Michael,Mr",29/10/2025,14:00,31/10/2025,12:00,00:00,1,SK,,,13741,DTP,TPI,,VND,1768000,Tiền mặt,6147979012,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+127,1731298,"Luettmann,Sandra,Ms",31/10/2025,14:00,01/11/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1731298,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+128,1732283,"Li,Hao",31/10/2025,19:00,02/11/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,2050187,Tiền mặt,BDC-6809015448-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+129,1742588,"Duerr,Ann,Ms",31/10/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,12183,DRR,WEB,,VND,1812200,Tiền mặt,,,
+130,1742799,"Ha,Quynh,Ms",31/10/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,12006,DTP,TPI,,VND,1450339,Tiền mặt,,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+131,1743332,"Lee,Siew Mei Charmaine",31/10/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2184000,Tiền mặt,,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+132,1733851,"Gill,Ophalyn",01/11/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,13741,DTP,TPI,,VND,1731792,Tiền mặt,BDC-5531635022-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+133,1733852,"Gill,Ophalyn",01/11/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,13741,DTP,TPI,,VND,1731792,Tiền mặt,BDC-5531635022-2,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+134,1735898,"Gill,Ophalyn",01/11/2025,14:00,02/11/2025,12:00,00:00,0,SK,,,13741,DTP,TPI,,VND,1734402,Tiền mặt,BDC-5120130459-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+135,1743280,"Truong,Thi My Linh,Ms",01/11/2025,12:00,02/11/2025,12:00,00:00,0,DK,,,12019,DTP,TPI,,VND,1574587,Tiền mặt,20251100000000,,
+136,1741996,"Fan,Da Long",01/11/2025,12:00,03/11/2025,12:00,00:00,0,SK,,,13864,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+137,1741348,"Yang,Xiao Jun",01/11/2025,12:00,05/11/2025,12:00,00:00,0,SK,,,13864,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+138,1741566,"Humnig,Bernhard,Mr",01/11/2025,14:00,05/11/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,1922700,Tiền mặt,5197888474,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+139,1742197,"Park,Jong Ho,Mr",01/11/2025,14:30,05/11/2025,14:05,00:00,0,ODK,,,721,CLA,COM,ICCLCPRO,VND,2677500,Tiền mặt,,VN 650,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+140,1730933,"Chu,Yang Hong",02/11/2025,14:00,03/11/2025,12:00,00:00,0,ST,,,12183,DRR,EML,,USD,62.56,Tiền mặt,7593SF002619,,
+141,1730934,"Chu,Yang Hong 2,Mr",02/11/2025,14:00,03/11/2025,12:00,00:00,0,ST,,,12183,DRR,EML,,USD,62.56,Tiền mặt,7593SF002620,,
+142,1733807,"Ball,Mark,Mr",02/11/2025,14:00,03/11/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,76.43,Tiền mặt,QBD-2980743-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+143,1738588,"Nevosad,Martin,Mr",02/11/2025,19:35,07/11/2025,12:00,00:00,0,SKS,,,12183,PBP,WEB,,VND,3302000,Tiền mặt,36058384757,EK 392,
+144,1743122,"Comba,Emmanuel Samuel,Mr",02/11/2025,14:00,07/11/2025,12:00,00:00,0,ODK,,,12183,PBP,WEB,,VND,3302000,Tiền mặt,29096940905,,
+145,1732571,TBA,05/11/2025,12:00,06/11/2025,12:00,00:00,0,BK,,,1002,CLA,TAL,ICCLCPRO,VND,2550000,Tiền mặt,1732571,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+146,1727729,"Kuhr- Heinrichs,Marion,Ms",05/11/2025,14:00,07/11/2025,12:00,00:00,0,SK,,,769,WFA,TAL,IWWHOAAA,VND,1763668,Tiền mặt,1727729,,"Room to T/A after C/O by C/L, ABF Incl. (Series Rate)."
+147,1730090,"Ramniklaldevani,Sonal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2221036,Tiền mặt,DOW-772965255 - 1750934003048841-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+148,1730091,"Ranchoddasdevani,Parimal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2221036,Tiền mặt,DOW-772965385 - 1750934015093622-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+149,1730094,"Ramniklaldevani,Sonal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-772967695 - 1750934358081829-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+150,1730095,"Ranchoddasdevani,Parimal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-772967755 - 1750934365098200-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+151,1730096,"Parimaldevani,Suman",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-772972485 - 1750935094070170-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+152,1730097,"Vadilalgandecha,Shirish",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-772974255 - 1750935340086618-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+153,1730098,"Parimaldevani,Suman",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-772975895 - 1750935600100210-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+154,1730107,"Ramniklaldevani,Sonal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-773040225 - 1750944242080553-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+155,1730109,"Parimaldevani,Suman",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-773085585 - 1750949162093389-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+156,1730110,"Ramniklaldevani,Sonal",05/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,13750,WDU,WHI,,VND,2218993,Tiền mặt,DOW-773085665 - 1750949173066796-1,,Collect Voucher. RM to TA by VCC upon C/O. ABF incl. GTD bkg
+157,1724537,"Pfund,Thomas Oliver",05/11/2025,14:00,13/11/2025,12:00,00:00,0,BK,,,13741,PTP,TPI,,VND,2617136,Tiền mặt,BDC-4847244759-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+158,1723539,"Brogna,Axel",05/11/2025,17:00,18/11/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2381987,Tiền mặt,BDC-4781828520-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+159,1728637,"Weyer,Janina",06/11/2025,18:40,07/11/2025,10:00,00:00,0,SKS,,,13741,DTP,TPI,,VND,2961604,Tiền mặt,BDC-5541901118-1,SQ 186,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+160,1732386,"Beaudin,David",06/11/2025,14:00,07/11/2025,12:00,00:00,0,BK,,,12006,DTP,TPI,,VND,1678863,Tiền mặt,AGO-886485314-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+161,1735498,"May,Louis Thomas,Mr",06/11/2025,01:00,07/11/2025,13:00,00:00,0,DK,,,14685,WFA,TAL,,VND,2094356,Tiền mặt,1735498,,
+162,1738526,"Hastings,John Waugh,Mr",06/11/2025,14:00,10/11/2025,12:00,00:00,0,BK,,,13741,DTP,TPI,,VND,2099499,Tiền mặt,6689387315,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+163,1737543,"Hackl-Feldbusch,Yan",06/11/2025,14:00,11/11/2025,12:00,00:00,0,BK,,,12183,DRR,WEB,,VND,1976000,Tiền mặt,27545082202,,
+164,1709423,"Sehne,Jessica,Ms",07/11/2025,13:55,08/11/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1709423,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+165,1713937,"Robertson,Wayne",07/11/2025,14:00,12/11/2025,12:00,00:00,0,SK,,,13866,DTP,TPI,,VND,2000590,Tiền mặt,EXP-2151672873-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+166,1731312,"Baudouin,Samuel",07/11/2025,14:00,19/11/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,USD,92.8,Tiền mặt,120874786,,
+167,1731313,"Bonneau,Frederic Bernard Dominique",07/11/2025,14:00,20/11/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2215392,Tiền mặt,BDC-6426493874-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+168,1739034,"Dang,Anh",08/11/2025,14:00,09/11/2025,12:00,00:00,0,SK,,,12006,DTP,TPI,,VND,1630980,Tiền mặt,1928683146,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+169,1743255,"Montegut,Alain J,Mr",08/11/2025,22:55,10/11/2025,12:00,00:00,0,ODK,,,12183,DRR,WEB,,VND,2806700,Tiền mặt,60580568486,UA 152,
+170,1735177,"Vitchuk Berrebi,Polina",08/11/2025,14:00,19/11/2025,12:00,00:00,0,DK,,,13741,PTP,TPI,,VND,2337647,Tiền mặt,BDC-6729782964-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+171,1732149,"Hermann,Luisa,Ms",10/11/2025,14:00,11/11/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1732149,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+172,1732482,"Owen,Meghan M",10/11/2025,11:00,11/11/2025,12:00,00:00,0,ODK,,,14685,WFA,TAL,,VND,2755732,Tiền mặt,1732482,,
+173,1742762,"Au,Jameson,Mr",10/11/2025,14:00,14/11/2025,12:00,00:00,0,DT,,,13866,DTP,TPI,,VND,1988929,Tiền mặt,2293078318,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+174,1731691,"Graziano,Leandro",10/11/2025,14:00,18/11/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2282832,Tiền mặt,BDC-6383001975-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+175,1741336,"Govindaraj,Senthil Kumar C,Mr",11/11/2025,14:00,12/11/2025,12:00,00:00,0,DT,,,13741,DTP,TPI,,VND,2106000,Tiền mặt,6044336362,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+176,1738527,"Hastings,John Waugh,Mr",12/11/2025,14:00,13/11/2025,12:00,00:00,0,BK,,,13741,DTP,TPI,,VND,2223000,Tiền mặt,5855624029,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+177,1732150,"Hermann,Luisa,Ms",13/11/2025,14:00,14/11/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1732150,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+178,1732387,"Beaudin,David",13/11/2025,14:00,14/11/2025,12:00,00:00,0,BK,,,12006,DTP,TPI,,VND,1678863,Tiền mặt,AGO-886486286-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+179,1708160,"Hiroaki,Osada",13/11/2025,22:00,15/11/2025,12:00,00:00,0,ST,,,13741,DTP,TPI,,VND,1712489,Tiền mặt,BDC-4985350074-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+180,1741027,"Sudarsono,Aryani,Ms",14/11/2025,17:55,15/11/2025,06:00,00:00,0,SK,,,13865,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,VN 630,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+181,1741558,"Eika,Hanne Elise,Ms",14/11/2025,14:00,16/11/2025,12:00,00:00,0,DT,,,12218,WFA,TAL,,VND,1873898,Tiền mặt,,,
+182,1714486,"Mcilwaine,Rhys",14/11/2025,14:00,17/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2275396,Tiền mặt,EXP-2153139426-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+183,1714487,"Mcilwaine,Liam",14/11/2025,14:00,17/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2275396,Tiền mặt,EXP-2153141143-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+184,1714490,"Mcilwaine,Jennifer",14/11/2025,14:00,17/11/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,105,Tiền mặt,QBD-2932646-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+185,1720079,"Shu,Xian",14/11/2025,08:05,18/11/2025,15:40,00:00,0,EKS,,,13324,COM,COM,,VND,0,Tiền mặt,1720079,TR 304,
+186,1713788,"Tyler,Nelvin Eugene,Mr",15/11/2025,14:00,16/11/2025,12:00,00:00,0,DK,,,14685,WFA,TAL,,VND,2094356,Tiền mặt,1713788,,
+187,1732388,"Beaudin,David",15/11/2025,14:00,16/11/2025,12:00,00:00,0,BK,,,12006,DTP,TPI,,VND,1630896,Tiền mặt,AGO-886486886-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+188,1742198,"Shively,Steven Wray,Mr",15/11/2025,14:00,16/11/2025,12:00,00:00,0,DK,,,14685,WFA,TAL,,VND,2094356,Tiền mặt,1713788,,
+189,1742199,"Reyes,Lisa,Ms",15/11/2025,14:00,16/Nov-25,12:00,00:00,0,DK,,,14685,WFA,TAL,,VND,2094356,Tiền mặt,1713788,,
+190,1742711,"Scheidegger,Jan,Mr",15/11/2025,14:00,17/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2184122,Tiền mặt,2292567036,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+191,1742712,"Atzigen,Christian Von,Mr",15/11/2025,14:00,17/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2184122,Tiền mặt,2292567038,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+192,1738463,"Montegut,Alain J,Mr",17/11/2025,19:10,18/11/2025,12:00,00:00,0,ODK,,,12183,DRR,WEB,,VND,3042000,Tiền mặt,,VN 1375,
+193,1739029,"Le,Thi Minh Nga,Ms",17/11/2025,14:00,25/11/2025,12:00,00:00,0,BK,,,13741,DTP,TPI,,VND,1976000,Tiền mặt,6250411424,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+194,1714180,"Rowlandson,David",19/11/2025,14:00,20/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2345719,Tiền mặt,EXP-X-427204096-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+195,1726067,"Akkersdijk,George,Mr",20/11/2025,14:00,21/11/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,2203916,Tiền mặt,BDC-4973549986-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+196,1728768,"Louise Gagne,Michelle",20/11/2025,14:00,21/11/2025,12:00,00:00,0,SK,,,12006,DTP,TPI,,VND,1737735,Tiền mặt,AGO-549003327-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+197,1728192,"Colla,Mary",20/11/2025,14:00,26/11/2025,12:00,00:00,0,ST,,,13747,WDU,WHI,,USD,105,Tiền mặt,QBD-2967180-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+198,1732466,"Middleton,Tracey,Ms",21/11/2025,14:00,22/11/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,USD,92.8,Tiền mặt,121005362,,
+199,1732484,"Middleton,Tracey,Ms",21/11/2025,14:00,22/11/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,USD,92.8,Tiền mặt,121005362,,
+200,1733638,"Gunia,Kerstin,Mrs",21/11/2025,14:00,22/11/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1733638,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+201,1713784,"Kita,Toshio,Mr",22/11/2025,14:00,23/11/2025,12:00,00:00,0,SK,,,1002,WFA,TAL,,VND,1763668,Tiền mặt,1713784,JL 759,
+202,1738297,"Sudarsono,Aryani,Ms",22/11/2025,09:00,23/11/2025,12:00,00:00,0,SK,,,13865,CLA,COM,ICCLCPRO,VND,2040000,Tiền mặt,,VN 1393,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+203,1713108,"Kita,Toshio,Mr",23/11/2025,14:00,25/11/2025,07:50,00:00,0,ODK,,,12183,PBP,WEB,,USD,105,Tiền mặt,119645299,,
+204,1737134,"Kita,Toshio 2",23/11/2025,14:00,25/11/2025,07:50,00:00,0,ODK,,,12183,PBP,WEB,,USD,105,Tiền mặt,119645299,,
+205,1738306,"Quach,Hao,Mr",27/11/2025,14:00,29/11/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2262000,Tiền mặt,5716604328,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+206,1743258,"Panachaweng,Thanakorn",27/11/2025,14:00,29/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2262005,Tiền mặt,2295335554,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+207,1743263,"Tanarojpiyatach,Abhisalid",27/11/2025,14:00,29/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2262005,Tiền mặt,2295335559,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+208,1743264,"Wong,Kelvin,Mr",27/11/2025,14:00,29/11/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2262005,Tiền mặt,2295335565,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+209,1728200,"Kalb,Birgit,Ms",29/11/2025,14:00,01/12/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1728200,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+210,1724296,"Cabillon,Henry",30/11/2025,14:00,01/12/2025,12:00,00:00,0,ST,,,13756,DTP,TPI,,USD,59.22,Tiền mặt,TIP-999240277226969-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+211,1734747,"Suess,Marcus,Mr",02/12/2025,14:00,03/12/2025,12:00,00:00,0,SK,,,13741,PTP,TPI,,VND,2283638,Tiền mặt,BDC-5742506438-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+212,1737073,"Williams,Philip Andrew",03/12/2025,12:00,06/12/2025,12:00,00:00,0,SK,,,702,CLA,COM,ICCLCPRO,VND,2167500,Tiền mặt,1737073,,Pax Acc. ABF Incl. FlashSale a 7-day Advance / GREAT RATE OFFER Benefits Incl.
+213,1712977,"Baumann,Stefan",04/12/2025,14:00,06/12/2025,12:00,00:00,0,SK,,,13132,WDU,WHI,,VND,1920472,Tiền mặt,HBD-79792-358-2929963-1,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+214,1735627,"Bubner,Wade",06/12/2025,14:10,07/12/2025,11:55,00:00,0,ODK,,,13741,DTP,TPI,,VND,2585248,Tiền mặt,BDC-5219375545-1,VJ 326,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+215,1731302,"Sherman,Craig",10/12/2025,01:00,11/12/2025,12:00,00:00,0,SK,,,13741,DTP,TPI,,VND,1985963,Tiền mặt,BDC-6140479123-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+216,1728458,"Pulles,Erna",11/12/2025,14:00,12/12/2025,12:00,00:00,0,DK,,,13866,PTP,TPI,,VND,2434257,Tiền mặt,EXP-2219472438-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+217,1742581,"Sharma,Ruchi",11/12/2025,14:00,13/12/2025,12:00,00:00,0,ST,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2291230092,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+218,1742582,"TBA Expedia,2291230095",11/12/2025,14:00,13/12/2025,12:00,00:00,0,ST,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2291230095,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+219,1742583,"TBA Expedia,2291230098",11/12/2025,14:00,13/12/2025,12:00,00:00,0,ST,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2291230098,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+220,1742584,"Sharma,Ruch",11/12/2025,14:00,13/12/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2291232735,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+221,1742585,"TBA Expedia,2291232737",11/12/2025,14:00,13/12/2025,12:00,00:00,0,SK,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2291232737,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+222,1738307,"Thu,Minh,Ms",14/12/2025,13:00,15/12/2025,12:00,00:00,0,BK,,,13741,DTP,TPI,,VND,1913600,Tiền mặt,6946740927,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+223,1733810,"Foo,Toon Lee Henry",15/12/2025,15:00,17/12/2025,12:00,00:00,0,ODK,,,12183,PBP,WEB,,USD,126,Tiền mặt,121079702,SQ 184,
+224,1726883,"Diec,Amy",16/12/2025,01:25,17/12/2025,12:00,00:00,0,SKS,,,13866,DTP,TPI,,VND,3000835,Tiền mặt,EXP-2207298531-1,CZ 6089,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+225,1742036,"Shon,Shon,Mr",16/12/2025,14:00,18/12/2025,12:00,00:00,0,SK,,,12183,PBP,WEB,,VND,2262000,Tiền mặt,62903593007,,
+226,1710997,"Hugli,Chantal",19/12/2025,14:00,20/12/2025,12:00,00:00,0,DK,,,13741,DTP,TPI,,VND,2093433,Tiền mặt,BDC-4684522788-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+227,1740494,"Kuchenkova,Valeriia,Ms",19/12/2025,14:00,20/12/2025,12:00,00:00,0,SK,,,12006,DTP,TPI,,VND,1812925,Tiền mặt,573107223,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+228,1712134,"Bessen,Diane E,Ms",21/12/2025,14:00,22/12/2025,12:00,00:00,0,DK,,,985,WFA,TAL,,VND,1984127,Tiền mặt,1712134,,
+229,1733488,"Schneider,Aron",21/12/2025,14:00,24/12/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,76.43,Tiền mặt,QBD-2980366-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+230,1739332,"Sprinz,Juergen",22/12/2025,14:00,23/12/2025,12:00,00:00,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+231,1716107,"Maharaj,Atishna",23/12/2025,14:00,26/12/2025,12:00,00:00,2,BK,,,12006,PTP,TPI,,VND,2857985,Tiền mặt,AGO-522391411-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+232,1734907,"Finch,Chloe",23/12/2025,14:00,27/12/2025,12:00,00:00,0,SK,,,13747,WDU,WHI,,USD,78.57,Tiền mặt,QBD-2982818-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+233,1734908,"Finch,Andrew",23/12/2025,14:00,27/12/2025,12:00,2,0,SK,,,13747,WDU,WHI,,USD,78.57,Tiền mặt,QBD-2982823-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+234,1735752,"Ho,Jun Yi",23/12/2025,11:00,29/12/2025,12:00,2,0,ODK,,,12183,DRR,IDV,,USD,64.6,Tiền mặt,1735752,SQ 178,
+235,1731695,"Dislen,Ilkay",24/12/2025,14:00,28/12/2025,12:00,2,0,SK,,,13866,PTP,TPI,,VND,2282883,Tiền mặt,EXP-2238730353-1,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+236,1735615,"Quinn,Liam",26/12/2025,14:00,27/12/2025,12:00,2,0,ST,,,13741,DTP,TPI,,VND,1953618,Tiền mặt,BDC-6808560528-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+237,1742219,"Mamicheva,Olga,Ms",26/12/2025,14:00,27/12/2025,12:00,2,0,ST,,,13866,PTP,TPI,,VND,1965667,Tiền mặt,2290187790,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+238,1720932,"Chen,Jyun Cheng",31/12/2025,21:25,01/01/2026,13:35,2,0,BK,,,12183,DRR,EML,,USD,66.64,Tiền mặt,7593SF002359,VJ 843,
+239,1742832,"Villarroel,Christopher,Mr",31/12/2025,14:00,03/01/2026,12:00,2,0,SK,,,13866,PTP,TPI,,VND,2261905,Tiền mặt,2293972479,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+240,1729006,"Kunissen,Susanne,Ms",31/12/2025,14:00,06/01/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1729006,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+241,1729007,"Kunissen,Kim,Ms",31/12/2025,14:00,06/01/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1729007,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+242,1741014,"Sharma,Atul,Mr",01/01/2026,05:50,03/01/2026,12:00,2,0,ODK,,,12006,DTP,TPI,,VND,2443027,Tiền mặt,1931442347,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+243,1737094,"Yata,Kento,Mr",02/01/2026,14:00,03/01/2026,12:00,2,0,DT,,,12183,DRR,IDV,,USD,78.2,Tiền mặt,1737094,,
+244,1737554,"Lin,Aung",02/01/2026,14:00,03/01/2026,12:00,2,1,SK,,,13756,DTP,TPI,,VND,1268540,Tiền mặt,1578940833639580,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+245,1737555,"Lin,Aung 2",02/01/2026,14:00,03/01/2026,12:00,2,1,SK,,,13756,DTP,TPI,,VND,1268540,Tiền mặt,1578940833639580,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+246,1734151,"Stubbs,Wendy",02/01/2026,14:00,05/01/2026,12:00,2,0,SK,,,13747,WDU,WHI,,USD,76.43,Tiền mặt,QBD-2981286-1,,Collect Voucher. Rm to TA by CC upon C/O. ABF Incl. Gtd Bkg.
+247,1740803,"Saito,Momoko,Mr",02/01/2026,14:00,05/01/2026,12:00,1,0,SK,,,13741,DTP,TPI,,VND,1812200,Tiền mặt,5493186851,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+248,1742804,"Laborde,Francois,Mr",02/01/2026,14:00,05/01/2026,12:00,2,0,ST,,,13132,WDU,WHI,,VND,1790881,Tiền mặt,,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+249,1742805,"Laborde,Francois 2",02/01/2026,14:00,05/01/2026,12:00,2,0,ST,,,13132,WDU,WHI,,VND,1790881,Tiền mặt,,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+250,1720800,"Chen,Jyun Cheng",03/01/2026,14:00,04/01/2026,13:35,2,0,BK,,,12183,DRR,EML,,USD,80.75,Tiền mặt,7593SF002349,,
+251,1742862,"Matsunaeguzman,Masao Andres,Mr",03/01/2026,12:00,04/01/2026,12:00,2,0,SKS,,,13756,DTP,TPI,,VND,2353649,Tiền mặt,1385427686455460,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+252,1719735,"Magnes,Ursula,Ms",03/01/2026,14:00,05/01/2026,12:00,2,0,SK,,,769,WFA,TAL,IWWHOAAA,VND,1763668,Tiền mặt,1719735,,"Room to T/A after C/O by C/L, ABF Incl. (Series Rate)."
+253,1725803,"Iffert,Florian,Mr",05/01/2026,14:00,08/01/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1725803,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+254,1737005,"Galdos,Dr Aitor",06/01/2026,14:00,07/01/2026,12:00,2,0,DK,,,12006,DTP,TPI,,VND,1803829,Tiền mặt,1737005,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+255,1732157,"Bogdan,Michael,Mr",06/01/2026,14:00,09/01/2026,12:00,2,0,DK,,,13805,WFA,TAI,IWWHOTUI,USD,74.95,Tiền mặt,1732157,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+256,1732151,"Schrod,Holger Burkhard,Mr",08/01/2026,14:00,10/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1732151,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+257,1732153,"Stojek,Thomas Lothar,Mr",08/01/2026,14:00,10/01/2026,12:00,1,0,ODK,,,13805,WFA,TAI,IWWHOTUI,USD,98.94,Tiền mặt,1732153,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+258,1731659,"Aschenbrenner,Sven,Mr",09/01/2026,14:00,10/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1731659,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+259,1731663,"Nowaczek,Michael,Mr",09/01/2026,14:00,10/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1731663,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+260,1737006,"Groebke,Ramon,Mr",09/01/2026,14:00,10/01/2026,12:00,1,0,DK,,,13805,WFA,TAI,IWWHOTUI,USD,74.96,Tiền mặt,1737006,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+261,1721997,"Norris,Trina,Ms",11/01/2026,12:00,17/01/2026,12:00,2,0,ETS,,419,12183,DRN,IDV,,USD,180,Tiền mặt,1721997,,
+262,1742086,"Tran,Hoang",11/01/2026,14:00,14/01/2026,12:00,2,0,SK,,,13132,WDU,WHI,,VND,1398590,Tiền mặt,,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+263,1742087,"Tran,Hoang 2",11/01/2026,14:00,14/01/2026,12:00,2,0,ST,,,13132,WDU,WHI,,VND,1398590,Tiền mặt,,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+264,1736265,"Sprinz,Juergen",12/01/2026,14:00,13/01/2026,12:00,1,0,SK,,,13741,PTP,TPI,,VND,2283663,Tiền mặt,1736265,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+265,1732152,"Schrod,Holger Burkhard,Mr",12/01/2026,14:00,15/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1732152,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+266,1732154,"Stojek,Thomas Lothar,Mr",12/01/2026,14:00,15/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1732154,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+267,1735893,"Le,Tuong",14/01/2026,14:00,15/01/2026,12:00,2,0,DK,,,13741,PTP,TPI,,VND,2408226,Tiền mặt,BDC-5120117498-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+268,1742093,"Tran,Hoang",16/01/2026,14:00,22/01/2026,12:00,2,0,SK,,,13132,WDU,WHI,,VND,1398591,Tiền mặt,358-3027893,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+269,1742094,"Tran,Hoang 2",16/01/2026,14:00,22/01/2026,12:00,2,0,ST,,,13132,WDU,WHI,,VND,1398591,Tiền mặt,358-3027893,,"Collect Voucher. Rm to TA by VCC upon C/,  ABF Incl. Gtd Bkg."
+270,1731662,"Aschenbrenner,Sven,Mr",17/01/2026,14:00,18/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1731662,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+271,1731664,"Nowaczek,Michael,Mr",17/01/2026,14:00,18/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1731664,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+272,1737036,"Groebke,Ramon,Mr",17/01/2026,14:00,18/01/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1737036,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+273,1724137,"Macfarlane,Lisa,Ms",20/01/2026,22:00,21/01/2026,12:00,2,0,ODK,,,12183,PBP,WEB,,USD,107.25,Tiền mặt,120260818,VN 656,
+274,1742008,"Roycroft,Darryl,Mr",20/01/2026,14:00,23/01/2026,12:00,2,0,DT,,,13741,PTP,TPI,,VND,2392000,Tiền mặt,6510439908,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+275,1740991,"Kenny,Margaret",28/01/2026,14:00,31/01/2026,12:00,2,0,ST,,,13756,PTP,TPI,,VND,1922701,Tiền mặt,1688892370296960,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+276,1743257,"Kallenberg,Birgit,Ms",04/02/2026,14:00,06/02/2026,12:00,2,0,SK,,,769,WFA,TAL,IWWHOAAA,VND,1763668,Tiền mặt,,,"Room to T/A after C/O by C/L, ABF Incl. (Series Rate)."
+277,1743259,"Kallenberg,Andre,Mr",04/02/2026,14:00,06/02/2026,12:00,1,0,SK,,,769,WFA,TAL,IWWHOAAA,VND,1763668,Tiền mặt,,,"Room to T/A after C/O by C/L, ABF Incl. (Series Rate)."
+278,1742834,"Kugai,Hayato,Mr",06/02/2026,14:00,09/02/2026,12:00,2,0,EKS,,,13866,DTP,TPI,,VND,3469762,Tiền mặt,2293974509,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+279,1742787,"Soussan,Jean Marc,Mr",07/02/2026,15:55,08/02/2026,12:00,2,0,EKS,,,12183,PBP,WEB,,VND,4082000,Tiền mặt,57008021938,VN 1345,
+280,1742027,"Fisher,Darrell,Mr",08/02/2026,23:00,09/02/2026,12:00,1,0,EKS,,,13741,PTP,TPI,,VND,4082000,Tiền mặt,5921583940,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+281,1742028,"Fisher,Darell 2,Mr",08/02/2026,23:00,09/02/2026,12:00,2,0,ST,,,13741,PTP,TPI,,VND,2184000,Tiền mặt,5921583940,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+282,1732155,"Ludwig,Michael,Mr",10/02/2026,14:00,11/02/2026,12:00,1,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1732155,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+283,1725816,"Hefter,Jan,Mr",12/02/2026,14:00,14/02/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1725816,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+284,1737037,"Hesslich,Uwe,Mr",15/02/2026,14:00,20/02/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1737037,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+285,1725830,"Hefter,Jan,Mr",16/02/2026,14:00,17/02/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1725830,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+286,1742030,"Fisher,Darrell,Mr",21/02/2026,13:00,23/02/2026,12:00,1,0,EKS,,,13741,PTP,TPI,,VND,4082000,Tiền mặt,5207731290,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+287,1742031,"Fisher,Darell 2,Mr",21/02/2026,23:00,23/02/2026,12:00,2,0,ST,,,13741,PTP,TPI,,VND,2184000,Tiền mặt,5207731290,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+288,1737038,"Hesslich,Uwe,Mr",22/02/2026,14:00,23/02/2026,12:00,2,0,SK,,,13805,WFA,TAI,IWWHOTUI,USD,71.2,Tiền mặt,1737038,,"Collect Voucher Rm to T/A after C/O by C/L, ABF Incl"
+289,1727945,"Haenel,Tobias David,Mr",24/02/2026,14:00,25/02/2026,12:00,2,0,DK,,,12183,PBP,EML,,USD,87,Tiền mặt,7593SF002522,,
+290,1742788,"Soussan,Jean Marc,Mr",26/02/2026,15:55,27/02/2026,09:25,2,1,EKS,,,12183,PBP,WEB,,VND,3749519,Tiền mặt,58134194357,VN 1345,
+291,1743267,"Soussan,Jean Marc,Mr",26/02/2026,15:55,27/02/2026,09:25,2,1,EKS,,,12183,PBP,WEB,,VND,3749519,Tiền mặt,,VN 1345,
+292,1743268,"Soussan,Jean Marc,Mr",26/02/2026,15:55,27/02/2026,09:25,2,1,EKS,,,12183,PBP,WEB,,VND,3749519,Tiền mặt,,VN 1345,
+293,1735214,"Looschen,Uwe",03/03/2026,14:00,04/03/2026,12:00,1,0,SK,,,12006,DTP,TPI,,VND,1881555,Tiền mặt,AGO-563253499-1,,Collect Voucher. RM to TA by VCC upon C/O. No ABF. GTD bkg
+294,1742740,"Gaar,Michael",27/03/2026,14:00,29/03/2026,12:00,2,0,SK,,,12183,DRR,WEB,,VND,1812200,Tiền mặt,11389213749,,
+295,1742742,"Rademacher,Matthew,Mr",27/03/2026,14:00,29/03/2026,12:00,2,0,SK,,,12183,DRR,WEB,,VND,1812200,Tiền mặt,35803095024,,
+296,1700877,"Fauss,Uwe 2",30/03/2026,14:00,31/03/2026,12:00,1,0,BK,,,12183,DRR,EML,,USD,73.87,Tiền mặt,7593SE001729,,
+297,1700878,"Fauss,Uwe 3",30/03/2026,14:00,31/03/2026,12:00,1,0,BK,,,12183,DRR,EML,,USD,73.87,Tiền mặt,7593SE001730,,
+298,1734293,"Barbour 2,Mrs",30/03/2026,09:00,01/04/2026,12:00,2,0,EKS,,,13741,DTP,TPI,,VND,4006330,Tiền mặt,BDC-5742562841-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+299,1734294,"Barbour,Mrs Tm",30/03/2026,09:00,01/04/2026,12:00,2,0,EKS,,,13741,DTP,TPI,,VND,4006330,Tiền mặt,BDC-5742562841-2,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+300,1733772,"Wong,Diana",31/03/2026,14:00,01/04/2026,14:00,2,0,ST,,,13741,DTP,TPI,,VND,2232315,Tiền mặt,BDC-5848486174-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+301,1733773,"Wong,Diana",31/03/2026,14:00,01/04/2026,12:00,1,1,ST,,,13741,DTP,TPI,,VND,2232315,Tiền mặt,BDC-5848486174-2,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+302,1742743,"Martin,Gamaliel,Mr",11/04/2026,14:00,14/04/2026,12:00,2,1,ST,,,13866,DTP,TPI,,VND,2216792,Tiền mặt,2292756619,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+303,1742745,"Martin,Gamaliel 2,Mr",11/04/2026,14:00,14/04/2026,12:00,2,0,ST,,,13866,DTP,TPI,,VND,1705429,Tiền mặt,2292756612,,Collect Voucher. Rm to T/A by VCC upon C/O. No ABF. GTD bkg. 10% discount on F&B
+304,1725465,"Baaske,Joerg,Mr",25/04/2026,14:00,27/04/2026,12:00,2,0,BK,,,12183,PBP,EML,,USD,91.25,Tiền mặt,7593SF002463,,
+305,1735763,"Meyer,Thomas",31/05/2026,14:00,03/06/2026,12:00,2,0,EKS,,,13741,DTP,TPI,,VND,3936540,Tiền mặt,BDC-5291065000-1,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+306,1742859,"McGhee,Joanne",11/09/2026,14:00,12/09/2026,12:00,2,0,SK,,,13741,PTP,TPI,,VND,2168402,Tiền mặt,5546872478,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+307,1742860,"McGhee,Joanne",11/09/2026,14:00,12/09/2026,12:00,2,0,SK,,,13741,PTP,TPI,,VND,2168402,Tiền mặt,5413553580,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B
+308,1742861,"McGhee,Joanne",11/09/2026,14:00,12/09/2026,12:00,2,0,BK,,,13741,PTP,TPI,,VND,3050237,Tiền mặt,6784412573,,Collect Voucher. Pax Acc. No ABF. GTD bkg. 10% discount on F&B

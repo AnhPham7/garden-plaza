@@ -1,0 +1,53 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint:format": "eslint .",
+    "test:chrome": "npx playwright test --headed --project=chromium",
+    "test:firefox": "npx playwright test --headed --project=firefox",
+    "test:safari": "npx playwright test --headed --project=webkit",
+    "test:all": "npx playwright test --workers=5 tests/ui",
+    "test:chkn": "npx playwright test --workers=5 tests/ui/chkn-invoiceSystem.spec.ts",
+    "test:add-guest": "npx playwright test  --workers=5 tests/ui/add-edit-remove-guest-for-booking/add-guest-booking",
+    "users": "npx playwright test  --workers=15 tests/banmong/create-booking.spec.ts",
+    "test:csv": "npx playwright test --workers=1 --headed tests/nuocngoai/update_data.spec.ts",
+    "test:a1": "npx playwright test  --workers=5 tests/ui/add-edit-remove-guest-for-booking/add-guest-booking/add-guest-booking-parallel.spec.ts",
+    "test:a2": "npx playwright test  --workers=5 tests/ui/add-edit-remove-guest-for-booking/add-guest-booking/add-guest-booking-serial.spec.ts",
+    "test:edit-parallel": "npx playwright test  --workers=5 tests/ui/add-edit-remove-guest-for-booking/edit-guest-booking/edit-guest-booking-parallel.spec.ts",
+    "test:edit-serial": "npx playwright test  --workers=5 tests/ui/add-edit-remove-guest-for-booking/edit-guest-booking/edit-guest-booking-serial.spec.ts",
+    "debug": "npx playwright test --headed -g 'TC.TK,SK,GBKCDP.180' --debug",
+    "zephyr:upload": "ts-node zephyrUpload.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.8",
+    "eslint": "^9.17.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-playwright": "^2.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "module-alias": "^2.2.3",
+    "prettier": "^3.4.2",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^16.4.7",
+    "i18n-iso-countries": "^7.14.0",
+    "mysql2": "^3.12.0",
+    "pg": "^8.13.1"
+  },
+  "_moduleAliases": {
+    "@file": "./files",
+    "@fixtures": "./fixtures",
+    "@pages": "./pages",
+    "@utils": "./utils",
+    "@data": "./data"
+  }
+}

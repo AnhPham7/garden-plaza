@@ -1,0 +1,12 @@
+[
+  { "code": "ALM", "name": "ALLOTMENT" },
+  { "code": "**", "name": "DUMMY" },
+  { "code": "SUP DBL NO WIN", "name": "SUPERIOR DOUBLE NO WINDOW" },
+  { "code": "SUP DBL", "name": "SUPERIOR DOUBLE WINDOW" },
+  { "code": "SGL", "name": "SINGLE" },
+  { "code": "DLX TWN", "name": "DELUXE TWIN" },
+  { "code": "DLX DBL", "name": "DELUXE DOUBLE" },
+  { "code": "TRPL", "name": "TRIPLE" },
+  { "code": "FAM", "name": "FAMILY" },
+  { "code": "SUIT", "name": "SUITE DOUBLE" }
+]

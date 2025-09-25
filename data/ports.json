@@ -1,0 +1,22 @@
+[
+  { "code": "CCL", "description": "Cảng Cái Lân" },
+  { "code": "CCT", "description": "Cảng Cần Thơ" },
+  { "code": "CDN", "description": "Cảng Đà Nẵng" },
+  { "code": "CHG", "description": "Cảng Hòn Gai" },
+  { "code": "CHP", "description": "Cảng Hải Phòng" },
+  { "code": "CNT", "description": "Cảng Nha Trang" },
+  { "code": "CSG", "description": "Cảng Sài Gòn" },
+  { "code": "CVT", "description": "Cảng Vũng Tàu" },
+  { "code": "KCT", "description": "CK Cầu Treo" },
+  { "code": "KDD", "description": "CK Đồng Đăng" },
+  { "code": "KHN", "description": "CK Hữu Nghị" },
+  { "code": "KLB", "description": "CK Lao Bảo" },
+  { "code": "KLC", "description": "CK Lào Cai" },
+  { "code": "KMB", "description": "CK Mộc Bài" },
+  { "code": "KMC", "description": "CK Móng Cái" },
+  { "code": "SDN", "description": "SB Đà Nẵng" },
+  { "code": "SNB", "description": "SB Nội Bài" },
+  { "code": "STS", "description": "SB Tân Sơn Nhất" },
+  { "code": "SVT", "description": "SB Vũng Tàu" },
+  { "code": "XXX", "description": "Chưa xác định" }
+]

@@ -33,7 +33,7 @@ for (const guest of records) {
     // await createBookingPage.clickBtnCloseLicense();
 
     await createBookingPage.clickTab(language.reservation);
-    await createBookingPage.waitForTimeout(1500);
+    await createBookingPage.waitForTimeout(1000);
 
     //fill mã xác nhận (nếu có)
     await createBookingPage.handleFillConfirmCode(guest.ConfirmCode);
@@ -76,7 +76,7 @@ for (const guest of records) {
 
     // chọn loại phòng
     await createBookingPage.clickDropdownRoomType();
-    await createBookingPage.waitForTimeout(1000);
+    // await createBookingPage.waitForTimeout(1000);
     await createBookingPage.clickOneRoomType(guest.BookedRmType.trim());
 
     // điền số phòng (nếu có)
@@ -90,7 +90,7 @@ for (const guest of records) {
       );
     } else {
       if (guest.NumRoom.trim() !== "") {
-        await createBookingPage.waitForTimeout(3000);
+        await createBookingPage.waitForTimeout(2000);
         await createBookingPage.clickBtnSearchRoomAssign();
         await createBookingPage.selectOneRoomAssign(guest.NumRoom);
         await createBookingPage.clickBtn("Chọn");
@@ -119,14 +119,6 @@ for (const guest of records) {
       await createBookingPage.clickOneFieldMarketSegment(guest.MarketSegment);
     }
 
-    //chọn nguồn
-    if (guest.Source.trim() !== "") {
-      await createBookingPage.clickBtnDropdownCreateBooking(
-        language.createBooking.source
-      );
-      await createBookingPage.clickOneItemSource(guest.Source);
-    }
-
     // chọn mã giá
     if (guest.RateCode.trim() !== "") {
       await createBookingPage.clickBtnSearchRateCode();
@@ -149,6 +141,14 @@ for (const guest of records) {
     // nhập giá
     await createBookingPage.clickCheckboxAutoPrice();
     await createBookingPage.fillInputPriceRoom(guest.Price);
+
+    //chọn nguồn
+    if (guest.Source.trim() !== "") {
+      await createBookingPage.clickBtnDropdownCreateBooking(
+        language.createBooking.source
+      );
+      await createBookingPage.clickOneItemSource(guest.Source);
+    }
 
     // chọn phương thức thanh toán
     await createBookingPage.selectOptionCreateBooking(

@@ -137,8 +137,78 @@ export class BasePage {
   protected btnCloseLicense =
     '//div[@aria-live="polite"]//button[@class="close"]';
   protected headerPage = '//div[contains(@class, "ez-page-header")]';
+  private btnDeleteSaler =
+    '(//div[normalize-space()="NV kinh doanh"]/following-sibling::div//i)[1]';
+  private selectStatus =
+    '(//div[normalize-space()="Trạng thái"]/following-sibling::div//select[@name="status"])[1]';
+  private btnDropdownRateCode =
+    '(//div[normalize-space()="Mã giá"]/following-sibling::div//button)[1]';
+  private inpArrCarrier = '//input[@id="arr_carrier"]';
+  private inpArrTimeGroup = '//input[@id="arr_fl_time"]';
+  private inpDeptCarrier = '//input[@id="dpt_carrier"]';
+  private inpDeptTimeGroup = '//input[@id="dpt_flt_time"]';
+  private checkboxNett = '//label[@for="chkNett"]';
 
   // Function
+  async clickCheckboxNett(): Promise<void> {
+    const el = this.page.locator(this.checkboxNett);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.click();
+  }
+
+  async getXpathNett() {
+    return this.page.locator(this.checkboxNett);
+  }
+
+  async fillArrCarrier(arrCarrier: string): Promise<void> {
+    const el = this.page.locator(this.inpArrCarrier);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.fill(arrCarrier);
+  }
+
+  async fillArrTime(arrTime: string): Promise<void> {
+    const el = this.page.locator(this.inpArrTimeGroup);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.fill(arrTime);
+  }
+
+  async fillDeptCarrier(deptCarrier: string): Promise<void> {
+    const el = this.page.locator(this.inpDeptCarrier);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.fill(deptCarrier);
+  }
+
+  async fillDeptTime(deptTime: string): Promise<void> {
+    const el = this.page.locator(this.inpDeptTimeGroup);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.fill(deptTime);
+  }
+
+  async clickFieldRateCode(): Promise<void> {
+    const el = this.page.locator(this.btnDropdownRateCode);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.click();
+  }
+
+  async selectOneItemRateCode(rateCode: string): Promise<void> {
+    const xpath = `(//div[normalize-space()="Mã giá"]/following-sibling::div//table)[2]//tr[.//span[normalize-space()="${rateCode}"]]`;
+    const el = this.page.locator(xpath);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.click();
+  }
+
+  async selectStatusReservation(status: string): Promise<void> {
+    const el = this.page.locator(this.selectStatus);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.selectOption({ label: status });
+  }
+
+  async clickBtnDeleteSaler(): Promise<void> {
+    const el = this.page.locator(this.btnDeleteSaler);
+    await el.waitFor({ state: "visible", timeout: 10000 });
+    await el.click();
+  }
+
   getXpathBtnDeleteInput(nameInput: string): Locator {
     const xpath = `(//div[normalize-space()="${nameInput}"]/following-sibling::div//span[@title="Xóa dữ liệu"]//i)[1]`;
     const el = this.page.locator(xpath);

@@ -128,6 +128,7 @@ export type Group = {
   ExternalIdentifier: string; // Mã định danh bên ngoài
   NameGroup: string; // Tên nhóm
   FullName: string; // Họ và tên
+  Status: string; // Trạng thái
   BookedRmType1: string; // Loại phòng đặt
   BookedRmType2: string; // Loại phòng đặt
   NumOfRoomType1: string; // Số phòng loại 1
@@ -154,4 +155,5 @@ export type Group = {
   Source: string; // Nguồn
   PaymentMethod: string; // Phương thức thanh toán
   ArrivalCarrier: string; // Phương tiện đến
+  DeptCarrier: string; // Phương tiện đi
 };

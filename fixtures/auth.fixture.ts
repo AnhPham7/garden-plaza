@@ -45,13 +45,13 @@ const test = base.extend<MyFixtures>({
   },
 
   searchBookingPage: async ({ page, homePage }, use) => {
-    await homePage.clickUser();
-    await homePage.clickFlagLanguage("vi");
+    // await homePage.clickUser();
+    // await homePage.clickFlagLanguage("vi");
 
     const searchBookingPage = new SearchBookingPage(page);
 
-    await homePage.clickItemNavbar(language.reservation);
-    await homePage.clickItemDropdown(language.search_reservation);
+    // await homePage.clickItemNavbar(language.reservation);
+    // await homePage.clickItemDropdown(language.search_reservation);
 
     await use(searchBookingPage);
   },

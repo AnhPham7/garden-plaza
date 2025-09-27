@@ -1,32 +1,342 @@
-STT,NameGroup,ArrivalDate,ArrivalTime,DeptDate,DeptTime,Status,CompanyTA,MarketSegment,Source,BookedRmType1,NumOfRoomType1,NumberOfGuests1,BookedRmType2,NumOfRoomType2,NumberOfGuests2,NumRoom,RateCode,Price,NumberOfGuests,Note
-77,Asian 1112-6xx,11/12/2025,14:00,13/12/2025,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-81,Asian 1812-6xx,18/12/2025,14:00,20/12/2025,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-87,Aeroflot 0101-6xx/4x,01/01/2026,14:00,31/08/2027,12:00,OPEN,PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,ST,6,12,SK,4,4,,,,16,
-88,Asian 0801-6xx,08/01/2026,14:00,10/01/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-89,Asian 2201-6xx,22/01/2026,14:00,24/01/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-90,Asian 0502-6xx,05/02/2026,14:00,07/02/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-91,Asian 1202-6xx,12/02/2026,14:00,14/02/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-92,Asian 1902-6xx,19/02/2026,14:00,21/02/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-93,Asian 2602-6xx,26/02/2026,14:00,28/02/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-94,Asian 0503-6xx,05/03/2026,14:00,07/03/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-95,Asian 1203-6xx,12/03/2026,14:00,14/03/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-96,Asian 1903-6xx,19/03/2026,14:00,21/03/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-97,Asian 2603-6xx,26/03/2026,14:00,28/03/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-98,Asian 0204-6xx,02/04/2026,14:00,04/04/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-99,Asian 0904-6xx,09/04/2026,14:00,11/04/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-100,Asian 1604-6xx,16/04/2026,14:00,18/04/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-101,Asian 2304-6xx,23/04/2026,14:00,25/04/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-102,Asian 3004-6xx,30/04/2026,14:00,02/05/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-103,Asian 1405-6xx,14/05/2026,14:00,16/05/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-104,Asian 2805-6xx,28/05/2026,14:00,30/05/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-105,Asian 1106-6xx,11/06/2026,14:00,13/06/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-106,Asian 2506-6xx,25/06/2026,14:00,27/06/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-107,Asian 0907-6xx,09/07/2026,14:00,11/07/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-108,Asian 2307-6xx,23/07/2026,14:00,25/07/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-109,Asian 0608-6xx,06/08/2026,14:00,08/08/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-110,Asian 2008-6xx,20/08/2026,14:00,22/08/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-111,Asian 0309-6xx,03/09/2026,14:00,05/09/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-112,Asian 1709-6xx,17/09/2026,14:00,19/09/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-113,Asian 0110-6xx,01/10/2026,14:00,03/10/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-114,Asian 1510-6xx,15/10/2026,14:00,17/10/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
-115,Asian 2910-6xx,29/10/2026,14:00,31/10/2026,12:00,TENT,CONG TY TNHH DL DUONG MON CHAU A,LGS,TAL,ST,6,12,,,,,,,12,
+STT,NameGroup,ArrivalDate,DeptDate,Status,CompanyTA,MarketSegment,Source,RateCode,ArrivalCarrier,ArrivalTime,DeptCarrier,DeptTime,BookedRmType1,NumOfRoomType1,NumberOfGuests1,BookedRmType2,NumOfRoomType2,NumberOfGuests2,Note
+13,China0367-0310 2xx/5x,03/10/2025,05/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+14,China0367-0410 2xx/5x,04/10/2025,06/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+15,Aeroflot 0410-6xx/4x,04/10/2025,09/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+16,China6089-0410 2xx/5x,04/10/2025,06/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+17,China0367-0510 2xx/5x,05/10/2025,07/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+18,China6089-0510 2xx/5x,05/10/2025,07/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+19,China6089-0610 2xx/5x,06/10/2025,08/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+20,China0367-0610 2xx/5x,06/10/2025,08/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+21,China6089-0710 2xx/5x,07/10/2025,09/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+23,China0367-0710 2xx/5x,07/10/2025,09/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+25,China6089-0810 2xx/5x,08/10/2025,10/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+26,China0367-0810 2xx/5x,08/10/2025,10/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+27,China6089-0910 2xx/5x,09/10/2025,11/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+28,Aeroflot 0910-6xx/4x,09/10/2025,11/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+29,China0367-0910 2xx/5x,09/10/2025,11/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+30,China0367-1010 2xx/5x,10/10/2025,12/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+31,China6089-1010 2xx/5x,10/10/2025,12/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+32,Aeroflot 1110-6xx/4x,11/10/2025,16/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+33,China6089-1110 2xx/5x,11/10/2025,13/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+34,China0367-1110 2xx/5x,11/10/2025,13/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+35,China6089-1210 2xx/5x,12/10/2025,14/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+36,China0367-1210 2xx/5x,12/10/2025,14/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+37,China6089-1310 2xx/5x,13/10/2025,15/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+38,China0367-1310 2xx/5x,13/10/2025,15/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+39,China6089-1410 2xx/5x,14/10/2025,16/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+40,China0367-1410 2xx/5x,14/10/2025,16/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+41,China6089-1510 2xx/5x,15/10/2025,17/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+42,China0367-1510 2xx/5x,15/10/2025,17/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+43,China0367-1610 2xx/5x,16/10/2025,18/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+44,China6089-1610 2xx/5x,16/10/2025,18/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+45,Aeroflot 1610-6xx/4x,16/10/2025,18/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+46,China0367-1710 2xx/5x,17/10/2025,19/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+47,China6089-1710 2xx/5x,17/10/2025,19/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+48,VIETEX 1710-3xxx/17xx,17/10/2025,19/10/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,,,,,,,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+49,China6089-1810 2xx/5x,18/10/2025,20/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+50,China0367-1810 2xx/5x,18/10/2025,20/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+51,Aeroflot 1810-6xx/4x,18/10/2025,23/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+52,China6089-1910 2xx/5x,19/10/2025,21/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+53,China0367-1910 2xx/5x,19/10/2025,21/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+54,China6089-2010 2xx/5x,20/10/2025,22/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+55,China0367-2010 2xx/5x,20/10/2025,22/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+56,China0367-2110 2xx/5x,21/10/2025,23/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+57,China6089-2110 2xx/5x,21/10/2025,23/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+59,China0367-2210 2xx/5x,22/10/2025,24/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+60,VIETEXP 2210-3xxx/17xx,22/10/2025,25/10/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+61,China6089-2210 2xx/5x,22/10/2025,24/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+63,China0367-2310 2xx/5x,23/10/2025,25/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+64,VIETEXP 2310-1xxx/17xx,23/10/2025,25/10/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,1,3,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+65,Aeroflot 2310-6xx/4x,23/10/2025,25/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+66,China6089-2310 2xx/5x,23/10/2025,25/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+67,China6089-2410 2xx/5x,24/10/2025,26/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+68,China0367-2410 2xx/5x,24/10/2025,26/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+69,China6089-2510 2xx/5x,25/10/2025,27/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+70,China0367-2510 2xx/5x,25/10/2025,27/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+71,Aeroflot 2510-6xx/4x,25/10/2025,30/10/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+72,China6089-2610 2xx/5x,26/10/2025,28/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+73,China0367-2610 2xx/5x,26/10/2025,28/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+74,China6089-2710 2xx/5x,27/10/2025,29/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+75,China0367-2710 2xx/5x,27/10/2025,29/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+76,China0367-2810 2xx/5x,28/10/2025,30/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+77,China6089-2810 2xx/5x,28/10/2025,30/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+78,China6089-2910 2xx/5x,29/10/2025,31/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+79,China0367-2910 2xx/5x,29/10/2025,31/10/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+80,China0367-3010 2xx/5x,30/10/2025,01/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+81,VIETEXP 3010-3xxx/13xx,30/10/2025,31/07/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,13,26,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+82,Aeroflot 3010-6xx/4x,30/10/2025,01/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+83,China6089-3010 2xx/5x,30/10/2025,01/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+84,China0367-3110 2xx/5x,31/10/2025,02/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+85,China6089-3110 2xx/5x,31/10/2025,02/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+86,China6089-0111 2xx/5x,01/11/2025,03/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+87,Aeroflot 0111-6xx/4x,01/11/2025,06/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+88,China0367-0111 2xx/5x,01/11/2025,03/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+90,China6089-0211 2xx/5x,02/11/2025,04/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+91,China0367-0211 2xx/5x,02/11/2025,04/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+92,China0367-0311 2xx/5x,03/11/2025,05/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+93,China6089-0311 2xx/5x,03/11/2025,05/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+96,China6089-0411 2xx/5x,04/11/2025,06/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+97,China0367-0411 2xx/5x,04/11/2025,06/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+98,China6089-0511 2xx/5x,05/11/2025,07/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+99,China0367-0511 2xx/5x,05/11/2025,07/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+100,China6089-0611 2xx/5x,06/11/2025,08/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+101,Aeroflot 0611-6xx/4x,06/11/2025,08/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+102,China0367-0611 2xx/5x,06/11/2025,08/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+103,China6089-0711 2xx/5x,07/11/2025,09/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+104,VIETEXP 0711-3xxx/17xx,07/11/2025,09/11/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+105,China0367-0711 2xx/5x,07/11/2025,09/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+106,Aeroflot 0811-6xx/4x,08/11/2025,13/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+107,China6089-0811 2xx/5x,08/11/2025,10/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+108,China0367-0811 2xx/5x,08/11/2025,10/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+109,China6089-0911 2xx/5x,09/11/2025,11/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+110,China0367-0911 2xx/5x,09/11/2025,11/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+111,China0367-1011 2xx/5x,10/11/2025,12/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+112,China6089-0210 2xx/5x,10/11/2025,12/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+113,China0367-1111 2xx/5x,11/11/2025,13/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+114,China6089-1111 2xx/5x,11/11/2025,13/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+115,China0367-1211 2xx/5x,12/11/2025,14/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+116,China6089-0210 2xx/5x,12/11/2025,14/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+118,Aeroflot 1311-6xx/4x,13/11/2025,15/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+119,China6089-1311 2xx/5x,13/11/2025,15/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+120,China0367-1311 2xx/5x,13/11/2025,15/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+121,VIETEXP 1411-3xxx/17xx,14/11/2025,16/11/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+122,China0367-1411 2xx/5x,14/11/2025,16/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+124,China6089-1411 2xx/5x,14/11/2025,16/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+125,China6089-1511 2xx/5x,15/11/2025,17/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+126,Aeroflot 1511-6xx/4x,15/11/2025,20/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+127,China0367-1511 2xx/5x,15/11/2025,17/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+129,China6089-1611 2xx/5x,16/11/2025,18/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+130,China0367-1611 2xx/5x,16/11/2025,18/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+131,China0367-1711 2xx/5x,17/11/2025,19/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+132,China6089-1711 2xx/5x,17/11/2025,19/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+133,China6089-1811 2xx/5x,18/11/2025,20/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+134,China0367-1811 2xx/5x,18/11/2025,20/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+135,China0367-1911 2xx/5x,19/11/2025,21/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+136,China6089-1911 2xx/5x,19/11/2025,21/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+137,China0367-2011 2xx/5x,20/11/2025,22/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+138,China6089-2011 2xx/5x,20/11/2025,22/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+139,Aeroflot 2011-6xx/4x,20/11/2025,22/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+141,China6089-2111 2xx/5x,21/11/2025,23/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+142,China0367-2111 2xx/5x,21/11/2025,23/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+143,VIETEXP 2111-3xxx/17xx,21/11/2025,23/11/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+145,China0367-2211 2xx/5x,22/11/2025,24/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+146,China6089-2211 2xx/5x,22/11/2025,24/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+147,Aeroflot 2211-6xx/4x,22/11/2025,27/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+148,China0367-2311 2xx/5x,23/11/2025,25/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+149,China6089-2311 2xx/5x,23/11/2025,25/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+150,China6089-2411 2xx/5x,24/11/2025,26/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+151,China0367-2411 2xx/5x,24/11/2025,26/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+152,China6089-2511 2xx/5x,25/11/2025,27/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+153,China0367-2511 2xx/5x,25/11/2025,27/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+154,China0367-2611 2xx/5x,26/11/2025,28/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+155,China6089-2611 2xx/5x,26/11/2025,28/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+157,Aeroflot 2711-6xx/4x,27/11/2025,29/11/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+158,China6089-2711 2xx/5x,27/11/2025,29/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+159,China0367-2711 2xx/5x,27/11/2025,29/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+161,China6089-2811 2xx/5x,28/11/2025,30/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+162,China0367-2811 2xx/5x,28/11/2025,30/11/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+163,VIETEXP 2811-3xxx/17xx,28/11/2025,30/11/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+164,China6089-2911 2xx/5x,29/11/2025,01/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+165,China0367-2911 2xx/5x,29/11/2025,01/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+166,Aeroflot 2911-6xx/4x,29/11/2025,04/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+167,China6089-3011 2xx/5x,30/11/2025,02/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+168,China0367-3011 2xx/5x,30/11/2025,02/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+169,China0367-0112 2xx/5x,01/12/2025,03/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+170,China6089-0112 2xx/5x,01/12/2025,03/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+171,China0367-0212 2xx/5x,02/12/2025,04/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+172,China6089-0212 2xx/5x,02/12/2025,04/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+173,China0367-0312 2xx/5x,03/12/2025,05/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+175,China6089-0312 2xx/5x,03/12/2025,05/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+176,China0367-0412 2xx/5x,04/12/2025,06/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+177,Aeroflot 0412-6xx/4x,04/12/2025,06/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+179,China6089-0412 2xx/5x,04/12/2025,06/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+180,VIETEXP 0512-3xxx/17xx,05/12/2025,07/12/2025,Tentative,GPS-CONG TY TNHH DU LICH VA THUONG MAI TRAI NGHIEM VIET,LGA,TAL,GLGRPAAA,,,,,ST,3,9,ST,17,34,"17 Superior double + 03 tripple (DBL + EXTRA BED)
+VND 1.875.000 Nett/room/night (including tax and service charge)
+Extra bed: VND 867.510/pax
+Ms Helen / Ms Zoe: 0961 264 196
+Email: booking@vietexperiencestravel.com"
+181,China0367-0512 2xx/5x,05/12/2025,07/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+182,China6089-0512 2xx/5x,05/12/2025,07/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+183,Aeroflot 0612-6xx/4x,06/12/2025,11/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+184,China0367-0612 2xx/5x,06/12/2025,08/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+185,China6089-0612 2xx/5x,06/12/2025,08/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+186,China6089-0712 2xx/5x,07/12/2025,09/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+187,China0367-0712 2xx/5x,07/12/2025,09/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+188,China0367-0812 2xx/5x,08/12/2025,10/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+189,China6089-0812 2xx/5x,08/12/2025,10/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+190,China6089-0912 2xx/5x,09/12/2025,11/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+191,China0367-0912 2xx/5x,09/12/2025,11/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+192,China0367-1012 2xx/5x,10/12/2025,12/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+193,China6089-1012 2xx/5x,10/12/2025,12/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+194,Aeroflot 1112-6xx/4x,11/12/2025,13/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+195,China6089-1112 2xx/5x,11/12/2025,13/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+196,China0367-1112 2xx/5x,11/12/2025,13/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+198,China6089-1212 2xx/5x,12/12/2025,14/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+199,China0367-1212 2xx/5x,12/12/2025,14/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+200,Aeroflot 1312-6xx/4x,13/12/2025,18/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+201,China6089-1312 2xx/5x,13/12/2025,15/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+202,China0367-1312 2xx/5x,13/12/2025,15/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+203,China0367-1412 2xx/5x,14/12/2025,16/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+204,China6089-1412 2xx/5x,14/12/2025,16/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+205,China6089-1512 2xx/5x,15/12/2025,17/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+206,China0367-1512 2xx/5x,15/12/2025,17/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+207,China0367-1612 2xx/5x,16/12/2025,18/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+208,China6089-1612 2xx/5x,16/12/2025,18/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+209,China0367-1712 2xx/5x,17/12/2025,19/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+210,China6089-1712 2xx/5x,17/12/2025,19/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+212,China6089-1812 2xx/5x,18/12/2025,20/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+213,China0367-1812 2xx/5x,18/12/2025,20/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+214,Aeroflot 1812-6xx/4x,18/12/2025,20/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+215,China6089-1912 2xx/5x,19/12/2025,21/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+216,China0367-1912 2xx/5x,19/12/2025,21/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+217,China0367-2012 2xx/5x,20/12/2025,22/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+218,Aeroflot 2012-6xx/4x,20/12/2025,25/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+219,China6089-2012 2xx/5x,20/12/2025,22/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+220,China6089-2112 2xx/5x,21/12/2025,23/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+222,China0367-2112 2xx/5x,21/12/2025,23/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+223,China6089-2212 2xx/5x,22/12/2025,24/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+224,China0367-2212 2xx/5x,22/12/2025,24/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+225,China0367-2312 2xx/5x,23/12/2025,25/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+226,China6089-2312 2xx/5x,23/12/2025,25/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+227,China0367-2412 2xx/5x,24/12/2025,26/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+228,China6089-2412 2xx/5x,24/12/2025,26/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+229,China6089-2512 2xx/5x,25/12/2025,27/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+230,Aeroflot 2512-6xx/4x,25/12/2025,27/12/2025,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+231,China0367-2512 2xx/5x,25/12/2025,27/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+232,China0367-2612 2xx/5x,26/12/2025,28/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+233,China6089-2612 2xx/5x,26/12/2025,28/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+234,China0367-2712 2xx/5x,27/12/2025,29/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+235,Aeroflot 2712-6xx/4x,27/12/2025,01/01/2026,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+236,China6089-2712 2xx/5x,27/12/2025,29/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+237,China6089-2812 2xx/5x,28/12/2025,30/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+238,China0367-2812 2xx/5x,28/12/2025,30/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+239,China0367-2912 2xx/5x,29/12/2025,31/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+240,China6089-2912 2xx/5x,29/12/2025,31/12/2025,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+241,China0367-3012 2xx/5x,30/12/2025,01/01/2026,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+242,China6089-3012 2xx/5x,30/12/2025,01/01/2026,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+243,China6089-3112 2xx/5x,31/12/2025,02/01/2026,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,GCCRWCSA,CZ 6089,01:35,CZ 6090,02:35,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract.
+P/U at 01:35am (Early Moning Next Day)"
+244,China0367-3112 2xx/5x,31/12/2025,02/01/2026,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+245,China0367-0101 2xx/5x,01/01/2026,25/06/2027,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."
+246,Aeroflot 0101-6xx/4x,01/01/2026,31/08/2027,Definite,GPS-PUBLIC JOINT STOCK COMPANY AEROFLOT RUSSIAN AIRLINES,AIR,AIR,GCCRWARF,SU 292,09:45,SU 293,08:45,ST,6,12,SK,4,4,"Rm To Co after C/O by CL,  ABF + Buffet Lunch + Buffet Dinner Incl.  Aeroflot Benefits Incl Follow the Contract."
+247,China0367-0110 2xx/5x,01/01/2026,25/06/2027,Definite,GPS-CHINA SOUTHERN AIRLINES OMPANY LIMITED,AIR,AIR,"GCCRWCSA",CZ 0367,22:00,CZ 0368,08:00,ST,2,4,SK,5,5,"Rm charge to Co after C/O, ABF Incl. Meal Vouchers & CS Airlines Benefits follow the contract."

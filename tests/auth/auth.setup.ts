@@ -7,7 +7,7 @@ setup("Đăng nhập và lưu trạng thái", async ({ page }) => {
   const storageState = "fixtures/storageState.json";
 
   await page.goto(urlWeb.url, { timeout: 60000 });
-  await page.waitForTimeout(7000);
+  await page.waitForTimeout(6000);
 
   const loginPage = new LoginPage(page);
   await loginPage.login(loginData.username, loginData.password);

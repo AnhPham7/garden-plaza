@@ -56,7 +56,7 @@ export class SearchBookingPage extends BasePage {
   async clickItemDropdown(string: string): Promise<void> {
     await this.page
       .locator(
-        `xpath=//a[@class="list-group-item list-group-item-action"]//span[contains(text(), "${string}")]`
+        `xpath=//a[@class="list-group-item list-group-item-action"]//span[normalize-space()="${string}"]`
       )
       .click();
   }
@@ -358,6 +358,12 @@ export class SearchBookingPage extends BasePage {
 
   async sb_fillInputMainInfo(value: string): Promise<void> {
     await this.page.locator(this.sb_inpMainInfo).fill(value);
+  }
+
+  async handleClickSearchReservation(): Promise<void> {
+    await this.clickSearchBtn();
+    await this.clickRightMouseRow(2);
+    await this.clickItemDropdown("Xem chi tiết đặt phòng");
   }
 
   private async sb_getIndexColumn(nameColumn: string): Promise<number> {

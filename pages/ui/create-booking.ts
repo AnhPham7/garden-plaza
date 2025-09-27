@@ -62,17 +62,10 @@ export class CreateBookingPage extends BasePage {
   private selectCurrency =
     '(//div[normalize-space()="Tiền tệ/Tỷ giá"]/following-sibling::div//select)[1]';
   private confirmCode = `//input[@title="Nhấn vào để sửa số xác nhận"]`;
-  private btnDeleteSaler =
-    '(//div[normalize-space()="NV kinh doanh"]/following-sibling::div//i)[1]';
+
   //tab other infomation
 
   /* Functions */
-
-  async clickBtnDeleteSaler(): Promise<void> {
-    const el = this.page.locator(this.btnDeleteSaler);
-    await el.waitFor({ state: "visible", timeout: 10000 });
-    await el.click();
-  }
 
   async clickInpConfirmCode(): Promise<void> {
     const el = this.page.locator(this.confirmCode);
@@ -149,6 +142,8 @@ export class CreateBookingPage extends BasePage {
   async fillInputPriceRoom(price: string) {
     const el = this.page.locator(this.inputPriceRoom);
     await el.waitFor({ state: "visible", timeout: 30000 });
+    await el.press("Control+A");
+    await el.press("Backspace");
     await el.fill(price);
   }
 
